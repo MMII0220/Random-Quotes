@@ -15,6 +15,10 @@
   align-items: center;
 }
 .quotes {
+  width: 900px;
+  height: 400px;
+  max-width: 100%;
+
   padding: 14% 2%;
   color: black;
   border-radius: 10px;
